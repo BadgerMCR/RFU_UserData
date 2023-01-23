@@ -1,2 +1,2 @@
 # RFU_UserData
-UserData fro Rugby and RFU graphics 
+UserData for Rugby and RFU graphics 
